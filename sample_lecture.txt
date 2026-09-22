@@ -1,0 +1,11 @@
+Python is a high-level, interpreted programming language known for its readability and simplicity.
+
+Variables in Python are used to store data values. Unlike some languages, Python has no command for declaring a variable — a variable is created the moment you first assign a value to it.
+
+A function in Python is a block of reusable code that performs a specific task. Functions are defined using the def keyword.
+
+Loops in Python are used to execute a block of code repeatedly. The two main types of loops are the for loop and the while loop.
+
+A list in Python is an ordered, mutable collection of items. Lists are defined using square brackets, for example: my_list = [1, 2, 3].
+
+A dictionary in Python is a collection of key-value pairs. Dictionaries are defined using curly braces, for example: my_dict = {"name": "Alice", "age": 30}.

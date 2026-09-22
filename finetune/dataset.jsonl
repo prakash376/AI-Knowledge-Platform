@@ -1,0 +1,6 @@
+{"question": "What is Python known for?", "answer": "Python is a high-level, interpreted programming language known for its readability and simplicity."}
+{"question": "How do you create a variable in Python?", "answer": "A variable is created the moment you first assign a value to it. Python has no command for declaring a variable separately."}
+{"question": "What is a function in Python?", "answer": "A function in Python is a block of reusable code that performs a specific task, defined using the def keyword."}
+{"question": "What are the two main types of loops in Python?", "answer": "The two main types of loops in Python are the for loop and the while loop."}
+{"question": "What is a list in Python?", "answer": "A list in Python is an ordered, mutable collection of items, defined using square brackets."}
+{"question": "What is a dictionary in Python?", "answer": "A dictionary in Python is a collection of key-value pairs, defined using curly braces."}
