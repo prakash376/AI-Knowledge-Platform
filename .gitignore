@@ -7,3 +7,5 @@ uploads/
 finetune/output/
 finetune/my_adapter/
 .env
+
+.env
